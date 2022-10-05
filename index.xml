@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Pinto222</title>
     <link>https://pinto222.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Pinto222</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Oct 2022 17:56:25 +0700</lastBuildDate><atom:link href="https://pinto222.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 10:20:22 +0700</lastBuildDate><atom:link href="https://pinto222.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_test</title>
+      <link>https://pinto222.github.io/posts/test_test/</link>
+      <pubDate>Wed, 05 Oct 2022 10:20:22 +0700</pubDate>
+      
+      <guid>https://pinto222.github.io/posts/test_test/</guid>
+      <description>Another test</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://pinto222.github.io/posts/test/</link>
@@ -22,7 +31,7 @@
       <pubDate>Tue, 04 Oct 2022 17:49:17 +0700</pubDate>
       
       <guid>https://pinto222.github.io/posts/my-first-post/</guid>
-      <description>Test post</description>
+      <description>Test post aaaa bbbb</description>
     </item>
     
   </channel>
